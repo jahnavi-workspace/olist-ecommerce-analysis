@@ -1,0 +1,12 @@
+# Raw data (download from Kaggle)
+data/*csv
+
+# Secrets
+.env
+
+# Pythin
+__pycache--?
+.ipynb_checkpoints/
+
+#Windows
+Thumbs.db
